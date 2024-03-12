@@ -47,4 +47,5 @@ let variable_name = value;
 const keyword to define a new variable. Variables declared using the JavaScript const keyword cannot be re-assigned.Variables specified using const cannot be redeclared and have block-scope.
 const const_name;
 const x;
+
 -------------------------------------------------------------------------------------------------------------------
